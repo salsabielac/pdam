@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pkl.iml" filepath="$PROJECT_DIR$/pkl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pdam.iml" filepath="$PROJECT_DIR$/../pdam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pkl.iml" filepath="$PROJECT_DIR$/../pkl.iml" />
     </modules>
   </component>
 </project>

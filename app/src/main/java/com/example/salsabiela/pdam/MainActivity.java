@@ -38,11 +38,11 @@ public class MainActivity extends AppCompatActivity implements ConstructNavigati
 
         ButterKnife.bind(this);
 
-        if (getSupportActionBar() != null) {
-            setSupportActionBar(toolbar);
-            getSupportActionBar().setDisplayShowTitleEnabled(true);
-            getSupportActionBar().setDisplayShowHomeEnabled(true);
-        }
+//        if (getSupportActionBar() != null) {
+//            setSupportActionBar(toolbar);
+//            getSupportActionBar().setDisplayShowTitleEnabled(true);
+//            getSupportActionBar().setDisplayShowHomeEnabled(true);
+//        }
 
         //navigation view configurations
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, drawerLayout, toolbar, R.string.drawer_open, R.string.drawer_close);
